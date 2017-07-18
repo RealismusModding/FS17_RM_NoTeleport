@@ -10,10 +10,9 @@
 
     <description>
         <en><![CDATA[Disables all teleporting functionality:
-            - Tabbing into vehicles
-            - Visiting places
-            - Entering vehicles from the overview menu
-            ]]></en>
+ - Tabbing into vehicles
+ - Visiting places
+ - Entering vehicles from the overview menu]]></en>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
