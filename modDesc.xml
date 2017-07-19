@@ -7,6 +7,7 @@
     <title>
         <en>No teleport</en>
         <de>Kein Teleportieren</de>
+        <cz>Žádný Teleport</cz>
     </title>
 
     <description>
@@ -18,6 +19,10 @@
   - Tabbing in Fahrzeuge
   - Aufsuchen von Orten
   - in Fahrzeuge aus dem Übersichtsmenü kommen]]></de>
+        <cz><![CDATA[Deaktivujr všechny funkce teleportování:
+- Vkládání do vozidel
+- Průzkum míst
+- Jsou používány ve vozidlech z hlavní nabídky]]></cz>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
