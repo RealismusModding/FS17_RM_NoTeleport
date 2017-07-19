@@ -6,6 +6,7 @@
 
     <title>
         <en>No teleport</en>
+        <de>Kein Teleportieren</de>
     </title>
 
     <description>
@@ -13,6 +14,10 @@
  - Tabbing into vehicles
  - Visiting places
  - Entering vehicles from the overview menu]]></en>
+        <de><![CDATA[Deaktiviert alle Teleporting- Funktionen :
+  - Tabbing in Fahrzeuge
+  - Aufsuchen von Orten
+  - in Fahrzeuge aus dem Übersichtsmenü kommen]]></de>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
