@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="37">
     <author>Realismus Modding</author>
-    <contributors>Rahkiin</contributors>
+    <contributors>Rahkiin, Anonymous</contributors>
     <version>1.0.0.0</version>
 
     <title>
@@ -26,8 +26,8 @@
  - Jsou používány ve vozidlech z hlavní nabídky]]></cz>
         <fr><![CDATA[Désactive toutes les fonctionnalités de téléportation:
  - Tabulation dans les véhicules
- - Lieux de visite
- - Saisie des véhicules dans le menu d'aperçu]]></fr>
+ - Visite des lieux
+ - Entrer dans les véhicules depuis le menu principal]]></fr>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
