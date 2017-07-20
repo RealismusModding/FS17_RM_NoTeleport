@@ -8,6 +8,7 @@
         <en>No teleport</en>
         <de>Kein Teleportieren</de>
         <cz>Žádný Teleport</cz>
+        <fr>Pas de téléportation</fr>
     </title>
 
     <description>
@@ -16,13 +17,17 @@
  - Visiting places
  - Entering vehicles from the overview menu]]></en>
         <de><![CDATA[Deaktiviert alle Teleporting- Funktionen :
-  - Tabbing in Fahrzeuge
-  - Aufsuchen von Orten
-  - in Fahrzeuge aus dem Übersichtsmenü kommen]]></de>
+ - Tabbing in Fahrzeuge
+ - Aufsuchen von Orten
+ - in Fahrzeuge aus dem Übersichtsmenü kommen]]></de>
         <cz><![CDATA[Deaktivujr všechny funkce teleportování:
-- Vkládání do vozidel
-- Průzkum míst
-- Jsou používány ve vozidlech z hlavní nabídky]]></cz>
+ - Vkládání do vozidel
+ - Průzkum míst
+ - Jsou používány ve vozidlech z hlavní nabídky]]></cz>
+        <fr><![CDATA[Désactive toutes les fonctionnalités de téléportation:
+ - Tabulation dans les véhicules
+ - Lieux de visite
+ - Saisie des véhicules dans le menu d'aperçu]]></fr>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
