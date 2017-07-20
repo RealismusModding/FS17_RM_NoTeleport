@@ -26,8 +26,8 @@
  - Jsou používány ve vozidlech z hlavní nabídky]]></cz>
         <fr><![CDATA[Désactive toutes les fonctionnalités de téléportation:
  - Tabulation dans les véhicules
- - Lieux de visite
- - Saisie des véhicules dans le menu d'aperçu]]></fr>
+ - Visite des lieux
+ - Entrer dans les véhicules depuis le menu principal]]></fr>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
