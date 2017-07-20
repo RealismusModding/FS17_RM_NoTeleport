@@ -1,5 +1,7 @@
 
 
 Translations:
+
 German - Amadeo01
-French - Farmer1602
+French - Farmer1602, Anonymous
+
