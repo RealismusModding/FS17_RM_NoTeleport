@@ -9,6 +9,7 @@
         <de>Kein Teleportieren</de>
         <cz>Žádný Teleport</cz>
         <fr>Pas de téléportation</fr>
+        <pl>Bez teleportacji</pl>
     </title>
 
     <description>
@@ -28,6 +29,10 @@
  - Tabulation dans les véhicules
  - Visite des lieux
  - Entrer dans les véhicules depuis le menu principal]]></fr>
+        <pl><![CDATA[Wyłącza wszystkie funkcjonalności teleportacji:
+ - Przełączanie pomiędzy pojazdami
+ - Odwiedzanie miejsc
+ - Wsiadanie po pojazdów z menu głównego]]></pl>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
