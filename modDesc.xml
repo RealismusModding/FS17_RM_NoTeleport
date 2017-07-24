@@ -10,6 +10,7 @@
         <cz>No Teleport</cz>
         <fr>No Teleport</fr>
         <pl>No Teleport</pl>
+        <it>No Teleport</it>
     </title>
 
     <description>
@@ -33,6 +34,10 @@
  - Przełączanie pomiędzy pojazdami
  - Odwiedzanie miejsc
  - Wsiadanie po pojazdów z menu głównego]]></pl>
+        <it><![CDATA[Disattiva tutte le funzionalità di 'teletrasporto':
+ - Tab nei veicoli
+ - Visitare luoghi
+ - Entrare nei veicoli dal menù generale]]></it>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
